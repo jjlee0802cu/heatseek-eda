@@ -1,5 +1,5 @@
 # heatseek-eda
-Exploratory Data Analysis for Heat Seek
+Exploratory Data Analysis for Heat Seek NYC
 
 ## Notes
 
